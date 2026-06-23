@@ -1,0 +1,14 @@
+
+body{margin:0;background:#0d0d0d;color:#fff;font-family:Arial,sans-serif}
+#app{max-width:520px;margin:auto;padding:16px}
+.logo{display:block;margin:20px auto;width:90%;max-width:320px}
+h1{text-align:center}
+.card,.exercise,.videoCard{background:#181818;border-radius:20px;padding:16px;margin:12px 0;box-shadow:0 4px 20px rgba(0,0,0,.4)}
+.dayBtn,button{width:100%;border:none;border-radius:16px;padding:18px;font-size:18px;background:#232323;color:#fff;margin:8px 0}
+.dayBtn:hover,button:hover{opacity:.9}
+.wk{padding:10px;border-radius:12px;margin:8px 0;font-weight:bold}
+.alta{background:#5f1010}.media{background:#6b5a10}.baja{background:#0d5f2d}
+.hidden{display:none}
+.segment{opacity:.8}
+iframe{width:100%;aspect-ratio:9/16;border:none;border-radius:16px}
+.back{background:#444}
